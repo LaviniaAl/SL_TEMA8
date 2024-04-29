@@ -1,0 +1,5 @@
+incendio=notificar_bombeiros, acionar_geradores, desligar_energia
+vazamento_gas=desligar_luzes, desligar_registros, acionar_proprietario
+invasao=ligar_alarme, acionar_policia 
+porta_aberta=fechar_porta, alerta_prprietario
+vazamento_agua=fechar_registro, enviar_alerta_para_proprietario
